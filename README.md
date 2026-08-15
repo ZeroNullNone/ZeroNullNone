@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=py,php,js,css,html,postgres,git,github,powershell,bash,ubuntu,vscode,laravel,cloudflare,wordpress" alt="Skills n Tools" />
+  <img height="40" src="https://skillicons.dev/icons?i=py,php,js,css,html,postgres,git,github,powershell,bash,ubuntu,vscode,laravel,cloudflare,wordpress" alt="Skills n Tools" />
   <br><br>
   
   <img height="165" src="https://streak-stats.demolab.com?user=ZeroNullNone&theme=dark&hide_border=true&border_radius=&mode=weekly&background=0D1117&fire=B294BB&ring=B294BB&currStreakLabel=85678F&sideLabels=85678F&sideNums=B294BB&currStreakNum=B294BB" alt="GitHub Streak" />
